@@ -1,22 +1,22 @@
 {
   "manifest": {
     "v": 1,
-    "issued_at": "2026-04-28T20:32:56.5031114Z",
-    "valid_until": "2026-05-05T20:32:56.5031114Z",
+    "issued_at": "2026-04-28T20:36:25.5074618Z",
+    "valid_until": "2026-05-05T20:36:25.5074618Z",
     "endpoints": [
       {
-        "id": "11vpn-as-1777408356",
+        "id": "11vpn-as-1777408567",
         "kind": "apps-script",
-        "url": "https://script.google.com/macros/s/AKfycbyEsFhi0-JKWrkJBfzWNYvulCJudyzn_U5Svgfs8M3rNaZZDpHhAtvpij2p8O1KujM9/exec",
+        "url": "https://script.google.com/macros/s/AKfycby5lWQhYl6dhGf7Z_KYPJLJNsGnbUITSpYmRUTlmzwRfAGaEAAkNSV7WL_8ed7u7X8w-w/exec",
         "key_id": "k1",
         "weight": 10,
         "max_body_bytes": 41943040
       }
     ],
     "keys": {
-      "k1": "b02c4f0c0eeed29301504910643221558f6d89beed8bd178226a302070986608"
+      "k1": "35c04a507d1d3a10c39a55d4e7a2b3a3b358abc16dca40e13eff5324ad9ae515"
     }
   },
-  "sig": "9kr+mg4oc9+K2mYyBBcDzQZZ6EToitBQXP6W5wS8EYNGXkxzApuiv50YXpALKfynagXlPGL5Xe6yW7LMcMGmAA==",
+  "sig": "DSjm4wPcaGGEBTYhWp+SHCxvNL4gp167ND5fuEIhyjh6A5DA7DQ/iQpTURG9oVWAYqwSs3Qe3oT1PoI4OUryAg==",
   "pubkey_id": "main"
 }
