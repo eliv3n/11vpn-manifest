@@ -1,0 +1,22 @@
+{
+  "manifest": {
+    "v": 1,
+    "issued_at": "2026-04-28T20:27:30.4862444Z",
+    "valid_until": "2026-05-05T20:27:30.4862444Z",
+    "endpoints": [
+      {
+        "id": "11vpn-as-1777408033",
+        "kind": "apps-script",
+        "url": "https://script.google.com/macros/s/AKfycbywbm5-JWgI0Ueyfds6pA3urt_ZBoGF7SC7q3PVOhyXjkhUdUXb0f2ilGYqjSv6ce7r/exec",
+        "key_id": "k1",
+        "weight": 10,
+        "max_body_bytes": 41943040
+      }
+    ],
+    "keys": {
+      "k1": "a33ec0252d7b47b7403c585c213d69fce1b0228c113f927eab53f5a7ca45e2ce"
+    }
+  },
+  "sig": "wjOfxoZJMxO7yf5KRzAbh2LFzrtUOuIqAEUAmtFHl+tz5dg3YSheU3nZU0fPB0M1THVksOjC5dmxT90LpjQxBQ==",
+  "pubkey_id": "main"
+}
